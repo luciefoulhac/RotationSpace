@@ -209,10 +209,10 @@ body {
 
 .moon {
 	border-radius: 50%;
-  box-shadow: 15px 15px 0 0 #fff;
-  height: 80px;
-  opacity: 0.2;
-  width: 80px;
+	box-shadow: 15px 15px 0 0 #fff;
+	height: 80px;
+	opacity: 0.2;
+	width: 80px;
 }
 
 .star {
@@ -220,8 +220,8 @@ body {
 }
 
 .star::after {
-   content: '★';
-   opacity: 0.2;
+	content: '★';
+	opacity: 0.2;
 }
 
 .small { font-size: 8px; }
